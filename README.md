@@ -23,7 +23,7 @@
 # Planos y esquemas
 
 ## Plano Dormitorio principal
-<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/win.png">
+<img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Plano%20Dormitorio%20principal.png">
 
 ## Plano 1 maqueta
 <img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Plano%201%20maqueta.png">
