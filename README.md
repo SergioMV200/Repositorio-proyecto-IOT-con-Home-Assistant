@@ -10,6 +10,10 @@
 
   https://www.siemens.com/global/en/products/automation/systems/industrial/plc/logo/logo-software.html
 
+- Raspberry Pi Imager: https://www.raspberrypi.com/software/
+
+- Tailscale: https://tailscale.com/download
+
 - ZigStar GW Multi tool: https://github.com/xyzroe/ZigStarGW-MT/blob/main/README.md
 
 
