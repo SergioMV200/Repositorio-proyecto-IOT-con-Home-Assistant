@@ -26,10 +26,10 @@
 <img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/win.png">
 
 ## Plano 1 maqueta
-<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+<img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Plano%201%20maqueta.png">
 
 ## Plano 2 maqueta
-<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+<img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Plano%202%20maqueta.png">
 
 ## Esquema eléctrico
 <img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Esquema%20el%C3%A9ctrico.png">
