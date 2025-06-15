@@ -13,7 +13,9 @@
 
 # Firmwares
 
-- Zigbee2mqtt Dongle Plus Smart Home Stick: https://community.home-assistant.io/t/zigbee2mqtt-dongle-plus-smart-home-stick-cc2652p-usb-for-zha/641253
+- Zigbee2mqtt Dongle Plus Smart Home Stick:
+
+  https://community.home-assistant.io/t/zigbee2mqtt-dongle-plus-smart-home-stick-cc2652p-usb-for-zha/641253
 
 
 # Modelos 3D
