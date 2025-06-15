@@ -26,6 +26,15 @@
   https://community.home-assistant.io/t/zigbee2mqtt-dongle-plus-smart-home-stick-cc2652p-usb-for-zha/641253
 
 
+# Add-on's
+
+- Zigbee2MQTT: https://github.com/zigbee2mqtt/hassio-zigbee2mqtt
+
+- HACS: https://www.hacs.xyz/
+
+- go2rtc: https://github.com/AlexxIT/hassio-addons
+
+
 # Planos y esquemas
 
 ## Plano Dormitorio principal
@@ -161,4 +170,4 @@
 -----------------------------------------------------------------------------------------------------------------------------
 - Pasa panel RJ45 hembra - hembra con fijación de tornillos: https://amzn.eu/d/c4N8Dbl
 -----------------------------------------------------------------------------------------------------------------------------
-- Maleta: Tienda fisica, prepago : 32,63 €
+- Maleta: Tienda fisica : 32,63 €
