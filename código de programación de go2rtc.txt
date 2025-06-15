@@ -1,2 +1,0 @@
-streams:
-    rtspCam_H264: rtsp://invitado:invitado@185.224.28.139:8585?subtype=MediaProfile000
