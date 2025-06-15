@@ -34,7 +34,6 @@
 - Cable de carga USB A macho - USB C macho 1 m:
 
   https://ugreenonline.com/ugreen-70413-1m-black-usb-2-0-a-to-angled-usb-c-cable-zinc-alloy-shell-with-braided-us313-10070413.html
-
 -----------------------------------------------------------------------------------------------------------------------------
 -	Cargador USB plano 3A: https://amzn.eu/d/2IXb5r3
 -----------------------------------------------------------------------------------------------------------------------------
@@ -58,14 +57,17 @@
 -----------------------------------------------------------------------------------------------------------------------------
 -	Fuente de alimentación de 24V Siemens LOGO! Power:
 
-  https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-montaje-en-carril-din/1365296?searchId=991c68b5-4811-4379-a26e-2112a0b301de&gb=s
-
+	  https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-montaje-en-carril-din/1365296?searchId=991c68b5-4811-4379-a26e-2112a0b301de&gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 -	Pantalla LOGO! TDE: https://es.rs-online.com/web/p/accesorios-para-controladores-y-automatas/2097110?gb=a
 -----------------------------------------------------------------------------------------------------------------------------
--	Pulsadores con piloto indicador a 24V de un módulo DIN: https://sugalpro.com/wp-content/uploads/2024/05/CATALOGO-APARAMENTA-SASSIN-INTERNATIONAL.pdf
+-	Pulsadores con piloto indicador a 24V de un módulo DIN:
+
+	  https://sugalpro.com/wp-content/uploads/2024/05/CATALOGO-APARAMENTA-SASSIN-INTERNATIONAL.pdf
 -----------------------------------------------------------------------------------------------------------------------------
--	Tomas schuko de carril DIN de 2,5 módulos DIN: https://www.chint.eu/es/material-electrico/aparamenta-modular/complementos-para-la-instalacion/serie-tc-s
+-	Tomas schuko de carril DIN de 2,5 módulos DIN:
+
+	  https://www.chint.eu/es/material-electrico/aparamenta-modular/complementos-para-la-instalacion/serie-tc-s
 -----------------------------------------------------------------------------------------------------------------------------
 -	Magnetotérmico C10 unipolar 1P+N: https://www.sumidelec.com/automatico-magnetotermico-hager-1pn-10a-mn510v-p-11945
 -----------------------------------------------------------------------------------------------------------------------------
@@ -91,8 +93,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 -	Cinta de doble cara (7,5m x 19mm):
 
-  https://www.amazon.es/ceys-Montack-Agarre-Total-Inmediato/dp/B08L6YPCJ7?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1AT7YVPFBWXBL&gQT=1&th=1
- 
+    https://www.amazon.es/ceys-Montack-Agarre-Total-Inmediato/dp/B08L6YPCJ7?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1AT7YVPFBWXBL&gQT=1&th=1
 -----------------------------------------------------------------------------------------------------------------------------
 -	Velcro con adhesivo (30 x 25 mm, 8 PZ): Tienda fisica : 0,80 €
 -----------------------------------------------------------------------------------------------------------------------------
@@ -101,12 +102,16 @@
 -	Filamento PLA (1,75 mm - 1 Kg): https://es.rs-online.com/web/p/materiales-para-impresion-3d/8320214?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 -	Cables de 1,5 mm² de color negro y rojo:
-  https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114429?gb=s
-  https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114435?gb=s
+
+    https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114429?gb=s
+
+    https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114435?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 -	Cables de 2,5 mm² de color azul, marrón y amarillo-verde:
-  https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114441?gb=s
- 	https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114450?gb=s
+
+    https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114441?gb=s
+
+ 	  https://es.rs-online.com/web/p/cables-unipolares-de-conexion/8114450?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 -	Punteras huecas normales de 1,5 mm²: https://es.rs-online.com/web/p/punteras-huecas/1787312?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
