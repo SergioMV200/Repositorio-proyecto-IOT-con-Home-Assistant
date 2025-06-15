@@ -32,7 +32,7 @@
 <img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
 
 ## Esquema eléctrico
-<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+<img src="https://raw.githubusercontent.com/SergioMV200/Repositorio-proyecto-IOT-con-Home-Assistant/refs/heads/main/Planos%20y%20esquemas/Esquema%20el%C3%A9ctrico.png">
 
 
 # Modelos 3D
