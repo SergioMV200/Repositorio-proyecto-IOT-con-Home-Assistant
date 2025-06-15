@@ -1,14 +1,14 @@
 # Softwares
 
-- LibreCAD: librecad.org/#
+- LibreCAD: https://librecad.org/#
 
-- nanoCAD: nanocad.com
+- nanoCAD: https://nanocad.com/
 
-- CADe SIMU: cade-simu.com
+- CADe SIMU: https://cade-simu.com/
 
-- LOGO! Soft Comfort: siemens.com/global/en/products/automation/systems/industrial/plc/logo/logo-software.html
+- LOGO! Soft Comfort: https://www.siemens.com/global/en/products/automation/systems/industrial/plc/logo/logo-software.html
 
-- ZigStar GW Multi tool: github.com/xyzroe/ZigStarGW-MT/blob/main/README.md
+- ZigStar GW Multi tool: https://github.com/xyzroe/ZigStarGW-MT/blob/main/README.md
 
 
 # Firmwares
@@ -18,9 +18,9 @@
 
 # Modelos 3D
 
-- Soporte pantalla LOGO! TDE: cults3d.com/en/3d-model/various/siemens-logo-tde-wallmount
+- Soporte pantalla LOGO! TDE: https://cults3d.com/en/3d-model/various/siemens-logo-tde-wallmount
 
-- Carcasa Raspberry Pi 4: cults3d.com/en/3d-model/tool/raspberry-pi-4-ssd-case-w-camera-cable-hole
+- Carcasa Raspberry Pi 4: https://cults3d.com/en/3d-model/tool/raspberry-pi-4-ssd-case-w-camera-cable-hole
 
 
 # Precio materiales
