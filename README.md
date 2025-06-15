@@ -106,9 +106,9 @@
 
   https://www.chint.eu/es/material-electrico/aparamenta-modular/complementos-para-la-instalacion/serie-tc-s
 -----------------------------------------------------------------------------------------------------------------------------
-- Magnetotérmico C10 unipolar 1P+N: https:
+- Magnetotérmico C10 unipolar 1P+N:
 
-  //www.sumidelec.com/automatico-magnetotermico-hager-1pn-10a-mn510v-p-11945
+  https://www.sumidelec.com/automatico-magnetotermico-hager-1pn-10a-mn510v-p-11945
 -----------------------------------------------------------------------------------------------------------------------------
 - Bornes de paso 4mm²: https://es.rs-online.com/web/p/bornes-de-carril-din/0425207?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
