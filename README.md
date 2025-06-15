@@ -20,6 +20,21 @@
   https://community.home-assistant.io/t/zigbee2mqtt-dongle-plus-smart-home-stick-cc2652p-usb-for-zha/641253
 
 
+  # Planos y esquemas
+
+## Plano Dormitorio principal
+<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/win.png">
+
+## Plano 1 maqueta
+<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+
+## Plano 2 maqueta
+<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+
+## Esquema eléctrico
+<img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/osx.png">
+
+
 # Modelos 3D
 
 - Soporte pantalla LOGO! TDE: https://cults3d.com/en/3d-model/various/siemens-logo-tde-wallmount
