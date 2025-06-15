@@ -16,6 +16,8 @@
 
 - ZigStar GW Multi tool: https://github.com/xyzroe/ZigStarGW-MT/blob/main/README.md
 
+- UltiMaker Cura: https://ultimaker.com/software/ultimaker-cura
+
 
 # Firmwares
 
