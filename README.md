@@ -20,7 +20,7 @@
   https://community.home-assistant.io/t/zigbee2mqtt-dongle-plus-smart-home-stick-cc2652p-usb-for-zha/641253
 
 
-  # Planos y esquemas
+# Planos y esquemas
 
 ## Plano Dormitorio principal
 <img src="https://github.com/xyzroe/ZigStarGW-MT/raw/main/images/win.png">
