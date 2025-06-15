@@ -64,7 +64,9 @@
 
   https://es.rs-online.com/web/p/fuentes-de-alimentacion-de-montaje-en-carril-din/1365296?searchId=991c68b5-4811-4379-a26e-2112a0b301de&gb=s
 -----------------------------------------------------------------------------------------------------------------------------
-- Pantalla LOGO! TDE: https://es.rs-online.com/web/p/accesorios-para-controladores-y-automatas/2097110?gb=a
+- Pantalla LOGO! TDE:
+
+  https://es.rs-online.com/web/p/accesorios-para-controladores-y-automatas/2097110?gb=a
 -----------------------------------------------------------------------------------------------------------------------------
 - Pulsadores con piloto indicador a 24V de un módulo DIN:
 
@@ -86,7 +88,9 @@
 
   https://es.rs-online.com/web/p/accesorios-para-terminal-de-carril-din/3354754?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
-- Canaletas perforadas de 25 mm X 25 mm: https://es.rs-online.com/web/p/canalizaciones-para-cables/8793713?gb=s
+- Canaletas perforadas de 25 mm X 25 mm:
+
+  https://es.rs-online.com/web/p/canalizaciones-para-cables/8793713?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 - Carril DIN Hager 50 cm: https://www.leroymerlin.es/productos/carril-din-hager-de-50-cm-12168632.html
 -----------------------------------------------------------------------------------------------------------------------------
@@ -130,7 +134,9 @@
 -----------------------------------------------------------------------------------------------------------------------------
 - Punteras huecas dobles de 2,5 mm²: https://es.rs-online.com/web/p/punteras-huecas/1788743?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
-- Conector IEC C14 Macho para panel con fijación de tornillos: https://es.rs-online.com/web/p/conectores-iec/0488191?gb=s
+- Conector IEC C14 Macho para panel con fijación de tornillos:
+
+  https://es.rs-online.com/web/p/conectores-iec/0488191?gb=s
 -----------------------------------------------------------------------------------------------------------------------------
 - Pasa panel RJ45 hembra - hembra con fijación de tornillos: https://amzn.eu/d/c4N8Dbl
 -----------------------------------------------------------------------------------------------------------------------------
